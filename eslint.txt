@@ -1,0 +1,1 @@
+eslint heeft geen problemen gevonden in mijn files ze zijn namelijk allemaal gefixt met de --fix option
